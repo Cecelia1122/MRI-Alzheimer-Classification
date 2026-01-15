@@ -58,9 +58,8 @@ The model classifies brain MRI scans into 4 stages based on Clinical Dementia Ra
 
 The model focuses on clinically relevant brain regions, particularly the hippocampus and medial temporal lobe — areas known to show early atrophy in Alzheimer's disease. 
 
-<p align="center">
-  <img src="results/gradcam/example. png" alt="Grad-CAM Visualization" width="600"/>
-</p>
+<img width="327" height="115" alt="image" src="https://github.com/user-attachments/assets/a9ba889f-0752-4a6e-b083-ae47141a5f20" />
+
 
 ## Installation
 
@@ -74,8 +73,8 @@ The model focuses on clinically relevant brain regions, particularly the hippoca
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/brain-mri-alzheimers. git
-cd brain-mri-alzheimers
+git clone https://github.com/Cecelia1122/MRI-Alzheimer-Classification.git
+cd MRI-Alzheimer-Classification
 
 # Create virtual environment
 python -m venv venv
